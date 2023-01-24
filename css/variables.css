@@ -1,0 +1,27 @@
+:root {
+  /*Dark Mode **PATTERN** */
+  --surface-color: rgba(255, 255, 255, 0.1);
+  --surface-color-hover: rgba(255, 255, 255, 0.05);
+  --stroke-color: rgba(255, 255, 255, 0.5);
+  --stroke-color-hover: #fff;
+  --text-color: #fff;
+  --icon-color:#fff;
+  --toggle-handle-color:#fff;
+  --highlight-color: rgba(255, 255, 255, 0.2);
+  --bg-url: url(/assets/bg-dark.svg);
+  --switch-bg-url: url(/assets/moon-stars.svg)
+  
+}
+.light {
+  /*Light Mode*/
+  --surface-color: rgba(0, 0, 0, 0.05);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --stroke-color: rgba(0, 0, 0, 0.5);
+  --stroke-color-hover: #000;
+  --text-color: #000;
+  --icon-color:#000;
+  --toggle-handle-color:#fff;
+  --highlight-color: rgba(0, 0, 0, 0.1);;
+  --bg-url: url(/assets/bg-light.svg);
+  --switch-bg-url: url(/assets/sun.svg)
+}
