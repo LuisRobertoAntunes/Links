@@ -10,7 +10,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 <p align="center">
-  <a target="_blank" href="#">
+  <a target="_blank" href="https://luisrobertoantuneslinks.vercel.app/">
     <img alt="Run in Vercel"src="/assets/vercel.png" />
   </a>
 </p>
