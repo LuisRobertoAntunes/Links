@@ -11,7 +11,7 @@
 </p>
 <p align="center">
   <a target="_blank" href="#">
-    <img alt="Run in Vercel"src="img/vercel.png" />
+    <img alt="Run in Vercel"src="/assets/vercel.png" />
   </a>
 </p>
 <p align="center">
@@ -34,7 +34,7 @@
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone 
+  $ git clone https://github.com/LuisRobertoAntunes/Links
 ```
 
 ## :memo: Licença
